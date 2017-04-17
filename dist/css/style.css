@@ -1,0 +1,77 @@
+/* #01AC98 535 Blue
+   #CDCCCA 535 Grey
+   black
+   
+   #FF5F00 upgruv orange
+   #87888A upgruv grey
+   white */
+
+.container {
+	border-radius: 15px;
+	position: relative;
+	left: 30px
+	top: 30px;
+	width: 500px;
+	color: #36454c;
+	padding: 20px;
+	}
+
+h1 {
+	font-family: cursive, Verdana, Arial;
+	color: #e19d48;
+	}
+	
+h3 {
+	font-family: cursive, Verdana, Arial;
+	color: #e19d48;
+	}
+
+body {
+	font-family: Verdana;
+	background-color: #c0e15e;
+	}
+	
+
+b {
+	color: #e19d48;
+	}
+	
+/* Trying to make a cool navigation bar */
+	
+* {
+   padding: 0;
+   margin: 0;
+}
+
+ul li {
+	float: left;
+	list-style: none;
+	margin-right: 1em; 
+}
+
+li a {
+	color: #544738;
+	text-decoration: none;
+	float: left;
+	font-size: 25px;
+	padding: 12px;
+}
+
+li a:hover {
+	color: #7eb9be;
+}
+
+/*End of nav bar code */
+	
+a {
+	color: #e19d48;
+	text-decoration: none;
+	}
+	
+a:hover {
+	cursor: hand;
+	text-decoration: none;
+	}
+	
+
+
