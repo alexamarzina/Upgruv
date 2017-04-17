@@ -9,43 +9,35 @@
 .container {
 	border-radius: 15px;
 	position: relative;
-	left: 100px
-	top: 100px;
-	right: 100px;
 	width: 1000px;
-	color: white;
+	background-color: white;
 	padding: 20px;
 	}
 	
 .row  {
 	border-radius: 15px;
 	position: relative;
-	left: 100px
-	top: 100px;
-	right: 100px;
 	width: 1000px;
-	color: white;
+	background-color: white;
 	padding: 20px;
 	}
 	
-.col-md-14	{
+/* .col-md-14	{
 	border-radius: 15px;
 	position: relative;
-	left: 100px
-	top: 100px;
-	right: 100px;
 	width: 1000px;
-	color: white;
+	background-color: white;
 	padding: 20px;
 	}
+	*/
 
 h1 {
-	font-family: cursive, Verdana, Arial;
+	font-family: Verdana, Arial;
 	color: #01AC98;
 	}
 	
 h3 {
-	font-family: cursive, Verdana, Arial;
+	font-family: Verdana, Arial;
 	color: #e19d48;
 	}
 
