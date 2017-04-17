@@ -6,34 +6,17 @@
    #87888A upgruv grey
    white */
 
-/* .container {
-	border-radius: 15px;
-	position: relative;
+div {
+	display: block;
 	width: 1000px;
-	background-color: white;
+	color: #36454c;
 	padding: 20px;
-	}
-	
-.row  {
-	border-radius: 15px;
-	position: relative;
-	width: 1000px;
 	background-color: white;
-	padding: 20px;
 	}
-	
- .col-md-14	{
-	border-radius: 15px;
-	position: relative;
-	width: 1000px;
-	background-color: white;
-	padding: 20px;
-	}
-	*/
 
 h1 {
 	font-family: Verdana, Arial;
-	color: #01AC98;
+	color: #e19d48;
 	}
 	
 h3 {
@@ -43,12 +26,12 @@ h3 {
 
 body {
 	font-family: Verdana;
-	background-color: #CDCCCA;
+	background-color: #c0e15e;
 	}
 	
 
 b {
-	color: #FF5F00;
+	color: #e19d48;
 	}
 	
 /* Trying to make a cool navigation bar */
