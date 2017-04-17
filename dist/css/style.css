@@ -16,7 +16,7 @@ div {
 
 h1 {
 	font-family: cursive, Verdana, Arial;
-	color: #e19d48;
+	color: #FF5F00;
 	}
 	
 h3 {
@@ -26,12 +26,12 @@ h3 {
 
 body {
 	font-family: Verdana;
-	background-color: #c0e15e;
+	background-color: #01AC98;
 	}
 	
 
 b {
-	color: #e19d48;
+	color: #FF5F00;
 	}
 	
 /* Trying to make a cool navigation bar */
@@ -56,13 +56,13 @@ li a {
 }
 
 li a:hover {
-	color: #7eb9be;
+	color: #FF5F00;
 }
 
 /*End of nav bar code */
 	
 a {
-	color: #e19d48;
+	color: #FF5F00;
 	text-decoration: none;
 	}
 	
