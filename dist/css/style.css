@@ -9,16 +9,39 @@
 .container {
 	border-radius: 15px;
 	position: relative;
-	left: 30px
-	top: 30px;
-	width: 500px;
-	color: #36454c;
+	left: 100px
+	top: 100px;
+	right: 100px;
+	width: 1000px;
+	color: white;
+	padding: 20px;
+	}
+	
+.row  {
+	border-radius: 15px;
+	position: relative;
+	left: 100px
+	top: 100px;
+	right: 100px;
+	width: 1000px;
+	color: white;
+	padding: 20px;
+	}
+	
+.col-md-14	{
+	border-radius: 15px;
+	position: relative;
+	left: 100px
+	top: 100px;
+	right: 100px;
+	width: 1000px;
+	color: white;
 	padding: 20px;
 	}
 
 h1 {
 	font-family: cursive, Verdana, Arial;
-	color: #e19d48;
+	color: #01AC98;
 	}
 	
 h3 {
@@ -28,12 +51,12 @@ h3 {
 
 body {
 	font-family: Verdana;
-	background-color: #c0e15e;
+	background-color: #CDCCCA;
 	}
 	
 
 b {
-	color: #e19d48;
+	color: #FF5F00;
 	}
 	
 /* Trying to make a cool navigation bar */
